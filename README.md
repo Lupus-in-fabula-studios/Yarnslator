@@ -2,6 +2,7 @@
  A tool to help with Yarn localization. Features:
  
  -A sorting system to help you easily find nodes you need to edit, saving you from having to scour spreadsheets with hundreds of entries
+ 
  -Editing directly withing the Unity Engine, allowing for a less cumbersome workflow
 
 # How to use
