@@ -18,6 +18,8 @@
  
  -(optional) drag and drop a .csv file to use as reference in the "References string file" field
  
+ -Write the language code for the language you wish to translate to in the "Language used" field
+ 
  -(optional) press on filter to filter the lines of dialogue shown down to specific nodes
  
  -(optional) toggle the "Show only lines in need of change" button to only show lines marked by yarn spinner with (NEEDS UPDATE)
