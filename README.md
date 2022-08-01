@@ -26,6 +26,4 @@
 
 -IMPORTANT! REMEMBER TO HIT "SAVE" ONCE YOU FINISH EDITING, OTHERWISE CHANGES WON'T APPLY AND MIGHT GET LOST!
 
-# Follow me on twitter
- If you enjoyed this plugin and want to support me, consider following me on twitter
-<a href="https://twitter.com/lupusinfabula22?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @lupusinfabula22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+# Follow me on twitter <a href="https://twitter.com/lupusinfabula22?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @lupusinfabula22</a>
