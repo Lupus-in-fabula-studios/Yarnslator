@@ -4,6 +4,8 @@
  -A sorting system to help you easily find nodes you need to edit, saving you from having to scour spreadsheets with hundreds of entries
  
  -Editing directly withing the Unity Engine, allowing for a less cumbersome workflow
+ 
+![Yarnslator](https://user-images.githubusercontent.com/88923647/182246281-c27fb1bf-165d-415a-b9eb-d6e8aa9eebc8.png)
 
 # How to use
  -Copy the repository into the Unity Editor
