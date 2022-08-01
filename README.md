@@ -25,3 +25,6 @@
  -(optional) toggle the "Show only lines in need of change" button to only show lines marked by yarn spinner with (NEEDS UPDATE)
 
 -IMPORTANT! REMEMBER TO HIT "SAVE" ONCE YOU FINISH EDITING, OTHERWISE CHANGES WON'T APPLY AND MIGHT GET LOST!
+
+# Follow me on twitter
+ If you enjoyed this plugin and want to support me, follow me on twitter <a href="https://twitter.com/lupusinfabula" class="twitter-follow-button" data-show-count="false" data-size="large">@lupusinfabula22</a>
