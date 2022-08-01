@@ -1,5 +1,8 @@
 # Yarnslator
- A tool to help with Yarn localization.
+ A tool to help with Yarn localization. Features:
+ 
+ -A sorting system to help you easily find nodes you need to edit, saving you from having to scour spreadsheets with hundreds of entries
+ -Editing directly withing the Unity Engine, allowing for a less cumbersome workflow
 
 # How to use
  -Copy the repository into the Unity Editor
@@ -17,3 +20,5 @@
  -(optional) press on filter to filter the lines of dialogue shown down to specific nodes
  
  -(optional) toggle the "Show only lines in need of change" button to only show lines marked by yarn spinner with (NEEDS UPDATE)
+
+-IMPORTANT! REMEMBER TO HIT "SAVE" ONCE YOU FINISH EDITING, OTHERWISE CHANGES WON'T APPLY AND MIGHT GET LOST!
