@@ -26,4 +26,4 @@
 
 -IMPORTANT! REMEMBER TO HIT "SAVE" ONCE YOU FINISH EDITING, OTHERWISE CHANGES WON'T APPLY AND MIGHT GET LOST!
 
-# Follow me on twitter <a href="https://twitter.com/lupusinfabula22?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @lupusinfabula22</a>
+# Follow me on twitter <a href="https://twitter.com/lupusinfabula22?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">@lupusinfabula22</a>
